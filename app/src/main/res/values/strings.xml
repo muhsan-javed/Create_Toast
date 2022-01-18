@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Create Toast</string>
+    <string name="showMessage">Message sent Successfully</string>
+    <string name="test_message">Test Message</string>
+    <string name="this_icon_i_am_used_user_successfully_message">This icon I am used user successfully Message</string>
+    <string name="create_toast">Create Toast</string>
 </resources>
